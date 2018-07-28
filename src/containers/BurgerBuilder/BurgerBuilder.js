@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import MyAux from '../../hoc/MyAux';
+import MyAux from '../../hoc/MyAux/MyAux';
 import Burger from '../../components/Burger/Burger';
 import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 import Modal from '../../components/UI/Modal/Modal';
